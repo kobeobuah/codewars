@@ -21,7 +21,7 @@
 //     +9 dog years for second year
 //     +5 dog years for each year after that
 
-
+  
 const humanYearsCatYearsDogYears = (humanYears) => {
     let catYears = 0;
     let dogYears = 0;
